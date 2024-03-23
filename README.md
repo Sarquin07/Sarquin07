@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning javascript.
+I'm looking for help with everything to do with software developing.
+Ask me about my favorite films.
+You can reach me at sarah.quinonez7@gmail.com
+My pronouns are she/her.
+A fun fact about me is I've seen my top 3 favorite 90s bands LIVE in concert.
